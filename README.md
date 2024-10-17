@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/85307566-b0a7-43f1-87b5-0ac898e9392c)
+
 # EasyLG
 简单外语
 
